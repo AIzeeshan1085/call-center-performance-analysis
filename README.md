@@ -8,7 +8,7 @@ An Excel-based data analytics project focused on analyzing call center performan
 
 ## 📸 Dashboard Preview
 
-![Call Center Performance Dashboard](Dashboard/call-center-dashboard.png)
+![Call Center Performance Dashboard](Dashboard/call-center-dashboard.png.png)
 
 ---
 
